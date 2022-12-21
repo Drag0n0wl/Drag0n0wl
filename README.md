@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drag0n0wl
+- 👋 Hi, I’m Zhi Liang, you can also call me Jacky.
 - 👀 I’m interested in sooo many things
 - 🌱 I’m currently learning HTML/CSS/JS, C++ and even 3D modelling/Game Engines.
 - 💞️ I’m looking to learn more from Self-Driving car experts as I am most interested in that field.
